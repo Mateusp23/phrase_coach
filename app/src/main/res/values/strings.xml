@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">phraseCoach</string>
+    <string name="title_splash">Frases Do Treinador ®</string>
+    <string name="icon_splash_description">Icone de Frases</string>
+    <string name="btn_new_phrase">Gerar Nova Frase</string>
+    <string name="title_phrase">Clique no botão abaixo para gerar uma frase aleatória</string>
+</resources>
