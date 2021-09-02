@@ -4,4 +4,22 @@
     <string name="icon_splash_description">Icone de Frases</string>
     <string name="btn_new_phrase">Gerar Nova Frase</string>
     <string name="title_phrase">Clique no botão abaixo para gerar uma frase aleatória</string>
+
+
+    <string name="phrase_1">As pessoas costumam dizer que a motivação não dura sempre. Bem, nem o efeito do banho, por isso recomenda-se diariamente.</string>
+    <string name="phrase_2">A persistência é o caminho do êxito.</string>
+    <string name="phrase_3">Motivação é a arte de fazer as pessoas fazerem o que você quer que elas façam porque elas o querem fazer.</string>
+    <string name="phrase_4">No meio da dificuldade encontra-se a oportunidade.</string>
+    <string name="phrase_5">Toda ação humana, quer se torne positiva ou negativa, precisa depender de motivação.</string>
+    <string name="phrase_6">Eu faço da dificuldade a minha motivação. A volta por cima vem na continuação.</string>
+    <string name="phrase_7">Pedras no caminho? Eu guardo todas. Um dia vou construir um castelo.</string>
+    <string name="phrase_8">É parte da cura o desejo de ser curado.</string>
+    <string name="phrase_9">O que me preocupa não é o grito dos maus. É o silêncio dos bons.</string>
+    <string name="phrase_10">Imagine uma nova história para sua vida e acredite nela.</string>
+    <string name="phrase_11">Quando o destino deixa algo valioso em seu colo, você não simplesmente joga no lixo.</string>
+    <string name="phrase_12">Bom gosto é para pessoas que não podem pagar por safiras.</string>
+    <string name="phrase_13">A convicção traz emoção, a inimiga da oratória.</string>
+    <string name="phrase_14">Eu penso para que você não precise pensar.</string>
+    <string name="phrase_15">Você não negocia quando está na pior.</string>
+
 </resources>

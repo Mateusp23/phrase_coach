@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">phraseCoach</string>
+    <string name="title_splash">Coach Phrases ®</string>
+    <string name="icon_splash_description">Phrase Icon</string>
+    <string name="btn_new_phrase">Generate New Phrase</string>
+    <string name="title_phrase">Click the button below to generate a random phrase</string>
+    <string name="phrase_1">People often say that motivation doesn\'t last forever. Well, neither does the bath effect, so it is recommended daily.</string>
+    <string name="phrase_2">Persistence is the path to success.</string>
+    <string name="phrase_3">Motivation is the art of getting people to do what you want them to do because they want to do it.</string>
+    <string name="phrase_4">In the midst of difficulty lies opportunity.</string>
+    <string name="phrase_5">All human action, whether it becomes positive or negative, must depend on motivation.</string>
+    <string name="phrase_6">I make difficulty my motivation. The back up comes next.</string>
+    <string name="phrase_7">Stones on the way? I keep them all. One day I will build a castle.</string>
+    <string name="phrase_8">The desire to be healed is part of healing.</string>
+    <string name="phrase_9">What worries me is not the scream of the bad guys. It\'s the silence of the good guys.</string>
+    <string name="phrase_10">Imagine a new story for your life and believe in it.</string>
+    <string name="phrase_11">When fate leaves something valuable in your lap, you don\'t just throw it away.</string>
+    <string name="phrase_12">Good taste is for people who can\'t afford sapphires.</string>
+    <string name="phrase_13">Conviction brings emotion, the enemy of oratory.</string>
+    <string name="phrase_14">I think so you don\'t have to think.</string>
+    <string name="phrase_15">You don\'t trade when you\'re at your worst.</string>
+</resources>
